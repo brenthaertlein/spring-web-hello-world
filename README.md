@@ -1,1 +1,1 @@
-# hello-world-webapp
+# spring-web-hello-world

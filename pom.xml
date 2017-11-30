@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nodemules.example.spring</groupId>
-  <artifactId>hello-world-webapp</artifactId>
+  <artifactId>spring-web-hello-world</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>hello-world-webapp</name>
+  <name>spring-web-hello-world</name>
   <description>A simple example of Hello World in Spring Boot</description>
 
   <parent>
